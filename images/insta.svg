@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" stroke="#FFFFFF" stroke-width="20">
+  <!-- Outer Circle -->
+  <circle cx="256" cy="256" r="200" stroke="#FFFFFF" fill="none" />
+  
+  <!-- Inner Rounded Square (Camera Icon) -->
+  <rect x="160" y="160" width="192" height="192" rx="48" ry="48" stroke="#FFFFFF" fill="none" />
+  
+  <!-- Camera Lens -->
+  <circle cx="256" cy="256" r="56" stroke="#FFFFFF" fill="none" />
+  
+  <!-- Top Right Circle (Flash) -->
+  <circle cx="344" cy="168" r="16" fill="#FFFFFF" />
+</svg>
